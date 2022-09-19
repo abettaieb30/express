@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(191, 191, 255);
+  }
+  h1{
+    color: #5146f3;
+  }
+  body{text-align: center;
+    background-color:aquamarine
+  }
